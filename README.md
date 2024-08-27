@@ -1,4 +1,4 @@
-# BankSystem
+# BankSystem (May 2022)
 Database for Bank Using SQL Server.
 
 There are multiple banks and each bank has many branches. Each bank has a name, code, and address. Each branch has an address and a branch number.
@@ -20,8 +20,9 @@ The bank system can include the following functionalities:
 10) Performing operations on loans: accept, reject, and pay the loan (by employee)
 
 The SQL statement for each inquiry: 
-a. What was the branch that has no customers?
-b. What was the branch that has no employees?
-e. Who was the employee with the maximum number of loans added? d. Who was the customer(s) who has a max number of loans?
-e. Who was the customer(s) who didn't take any loans?
-f. For each customer, retrieve all his/her information and the number of employees he deals with.
+1. What was the branch that had no customers?
+2. What was the branch that had no employees?
+3. Who was the employee with the maximum number of loans added?
+4. Who was the customer(s) who had a maximum number of loans?
+5. Who was the customer(s) who didn't take any loans?
+6. For each customer, retrieve all his/her information and the number of employees he deals with.
