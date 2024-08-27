@@ -20,9 +20,9 @@ The bank system can include the following functionalities:
 10) Performing operations on loans: accept, reject, and pay the loan (by employee)
 
 The SQL statement for each inquiry: 
-1. What was the branch that had no customers?
-2. What was the branch that had no employees?
-3. Who was the employee with the maximum number of loans added?
-4. Who was the customer(s) who had a maximum number of loans?
-5. Who was the customer(s) who didn't take any loans?
-6. For each customer, retrieve all his/her information and the number of employees he deals with.
+1. What was the branch that had no customers? (query A)
+2. What was the branch that had no employees? (query B)
+3. Who was the employee with the maximum number of loans added? (query C)
+4. Who was the customer(s) who had a maximum number of loans? (query D)
+5. Who was the customer(s) who didn't take any loans? (query E)
+6. For each customer, retrieve all his/her information and the number of employees he deals with. (query F)
