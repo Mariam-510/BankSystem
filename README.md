@@ -1,6 +1,5 @@
 # BankSystem (May 2022)
 Database for Bank Using SQL Server.
-
 There are multiple banks and each bank has many branches. Each bank has a name, code, and address. Each branch has an address and a branch number.
 Each branch has multiple customers. 
 Each customer has SSN, name, phone, and address. Some customers may take different types of loans from these bank branches. 
